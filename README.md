@@ -2,7 +2,7 @@ Hindi to Chhattisgarhi machine translation using LSTM
 
 "Hindi to Chhattisgarhi translation" refers to the process of converting text from the Hindi language to the Chhattisgarhi language. 
 **Dataset**
-![alt text](https://github.com/Pankajkashyap1/Hindi_2_Chhattisgarhi_Translation/blob/master/img/dataset.avif)
+![alt text](https://github.com/Pankajkashyap1/Hindi_2_Chhattisgarhi_Translation/blob/master/img/dataset.png)
 
 The goal of Hindi to Chhattisgarhi translation is to convey the meaning of the original content accurately while taking into account linguistic and cultural nuances. This process is essential for communication between individuals or groups who speak different languages, allowing them to understand and exchange information effectively.
 
@@ -19,4 +19,4 @@ An LSTM (Long Short-Term Memory) network is a type of RNN recurrent neural netwo
 ![alt text](https://github.com/Pankajkashyap1/Hindi_2_Chhattisgarhi_Translation/blob/master/img/LSTM_Recurrent_unit.avif)
 
 **Result**
-![alt text](https://github.com/Pankajkashyap1/Hindi_2_Chhattisgarhi_Translation/blob/master/img/Result.avif)
+![alt text](https://github.com/Pankajkashyap1/Hindi_2_Chhattisgarhi_Translation/blob/master/img/Result.png)
